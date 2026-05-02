@@ -2,9 +2,13 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+.DS_Store
 # C extensions
 *.so
+.virtual_documents/
+plots*
+.ipynb_checkpoints
+Bike-Sharing-Dataset.zip
 
 # Distribution / packaging
 .Python
