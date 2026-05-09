@@ -40,14 +40,14 @@ Clone [the repository](https://github.com/USTH-classroom/ml-course) `git clone g
 
 ---
 
-## Evaluation (to be updated)
+## Evaluation
 
-| Component | Weight |
-|----------|--------|
-| Assignments | TBD |
-| Midterm | TBD |
-| Final Project | TBD |
-| Participation | TBD |
+| Component | Weight | Description |
+|----------|--------|-------------|
+| Assignments / Exercises | 30% | Short practical exercises and notebooks during the course |
+| Group Project | 30% | Mini ML project with dataset, model, evaluation, error analysis, and presentation |
+| Final Exam | 30% | Theoretical and practical understanding of the main ML concepts |
+| Participation | 10% | Attendance, questions, discussions, and active participation |
 
 ---
 
